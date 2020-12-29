@@ -10,4 +10,8 @@ public class TrainCoreApplication {
         SpringApplication.run(TrainCoreApplication.class, args);
     }
 
+    public Integer test() {
+        return Integer.parseInt("11");
+    }
+
 }
