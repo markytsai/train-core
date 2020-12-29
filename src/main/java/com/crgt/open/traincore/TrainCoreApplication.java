@@ -11,4 +11,8 @@ public class TrainCoreApplication {
     }
 
     //
+
+    public void test() {
+
+    }
 }
