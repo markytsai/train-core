@@ -10,9 +10,4 @@ public class TrainCoreApplication {
         SpringApplication.run(TrainCoreApplication.class, args);
     }
 
-    //
-
-    public void test() {
-
-    }
 }
